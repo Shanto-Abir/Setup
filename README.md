@@ -6,11 +6,17 @@
 # *too 
 
  apt update 
+ 
  apt upgrade 
+ 
  apt install git 
+ 
  apt install python 
+ 
  git clone https://github.com/Shanto-Abir/Setup 
+ 
  cd Setup
+ 
  python SHANTO.py 
 
 
