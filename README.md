@@ -1,23 +1,17 @@
-# Setup tool
-# *Ata python dia kora
-# *tai sohoje use Korte paren
+# Setup Tool
 
+## *Ata Python dia kora*
+## *Tai sohoje use korte paren*
 
-# *too 
+---
 
- apt update 
- 
- apt upgrade 
- 
- apt install git 
- 
- apt install python 
- 
- git clone https://github.com/Shanto-Abir/Setup 
- 
- cd Setup
- 
- python SHANTO.py 
+### Installation & Usage
 
-
-# enjoy 😍
+```bash
+apt update
+apt upgrade
+apt install git
+apt install python
+git clone https://github.com/Shanto-Abir/Setup
+cd Setup
+python SHANTO.py
